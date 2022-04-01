@@ -1,0 +1,11 @@
+export const PROJECT_LIST = 'CATEGORY_LIST'
+export const PROJECT_ADD = 'CATEGORY_ADD'
+export const PROJECT_UPDATE = 'CATEGORY_UPDATE'
+export const PROJECT_REMOVE = 'CATEGORY_REMOVE'
+
+export default {
+    PROJECT_LIST,
+    PROJECT_ADD,
+    PROJECT_UPDATE,
+    PROJECT_REMOVE,
+}

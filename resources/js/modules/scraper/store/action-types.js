@@ -1,0 +1,11 @@
+export const SCRAPER_LIST = 'SCRAPER_LIST'
+export const SCRAPER_ADD = 'SCRAPER_ADD'
+export const SCRAPER_UPDATE = 'SCRAPER_UPDATE'
+export const SCRAPER_REMOVE = 'SCRAPER_REMOVE'
+
+export default {
+    SCRAPER_LIST,
+    SCRAPER_ADD,
+    SCRAPER_UPDATE,
+    SCRAPER_REMOVE,
+}

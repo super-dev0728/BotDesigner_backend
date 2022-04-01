@@ -1,0 +1,11 @@
+export const DATASET_LIST = 'DATASET_LIST'
+export const DATASET_ADD = 'DATASET_ADD'
+export const DATASET_UPDATE = 'DATASET_UPDATE'
+export const DATASET_REMOVE = 'DATASET_REMOVE'
+
+export default {
+    DATASET_LIST,
+    DATASET_ADD,
+    DATASET_UPDATE,
+    DATASET_REMOVE,
+}
